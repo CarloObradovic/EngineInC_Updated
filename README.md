@@ -9,5 +9,5 @@
 
 <h2>Made by CarloObradovic</h2>
 
-<h1>i made a little bit map in the source code to represent a map you can customize it to yout will </h1>
+<h1>i made a little bit map in the source code to represent a map you can customize it to your will </h1>
 <h3>made with openGL and Glut</h3>
