@@ -1,0 +1,1 @@
+gcc .\main.c -lglu32 -lglut32 -lopengl32
