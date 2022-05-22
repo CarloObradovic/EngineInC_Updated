@@ -44,7 +44,7 @@ void drawMap2D()
 float degToRad(int a) { return a*M_PI/180.0;}
 int FixAng(int a){ if(a>359){ a-=360;} if(a<0){ a+=360;} return a;}
 
-float px,py,pdx,pdy,pa;
+float px,py,pdx,pdy,pa; //player x valuta player y valuta na zaslonu sto s=ce se iscrtati
 
 void drawPlayer2D()
 {
